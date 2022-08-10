@@ -7,7 +7,7 @@
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiMorais&show_icons=true&theme=dracula)
 
 
-## Tecnológias que eu uso:
+## Tecnologias que eu uso:
 
 
 <div style="display> inline_block"><br/>
